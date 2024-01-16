@@ -7,9 +7,6 @@ import os
 import requests
 import streamlit as st
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
-os.environ["OPENAI_API_KEY"] = "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"
-
 ## Function that converts any Image to Text using Hugginggface Open Source Model
 
 
