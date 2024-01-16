@@ -1,0 +1,6 @@
+python-dotenv
+transformers==4.27.3 
+langchain 
+openai
+requests
+streamlit
