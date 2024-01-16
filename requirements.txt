@@ -4,3 +4,4 @@ langchain
 openai
 requests
 streamlit
+tensorflow==2.12.0
